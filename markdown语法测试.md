@@ -2,3 +2,5 @@
 
 <table><tr><td style="color:red">测试table标签数据</td></tr></table>
 <p style="color:red">测试p标签数据，颜色渲染</p>
+
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1533056743408&di=f6e17a49ae079daea6f0e2e4934d6026&imgtype=0&src=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201509%2F14%2F20150914211622_EeJHY.jpeg"/>
