@@ -9,6 +9,7 @@
 
 <font color="red">颜色</font>
 <table><tr><td bgcolor=orange> 背景色是 1 orange</td></tr></table>
+<link rel="stylesheet" type="text/css" href="theme.css" />
 
 
 #### it seems markdown只支持部分html原生的属性设置写法，但不支持css以及style的部分写法；
