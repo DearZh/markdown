@@ -10,7 +10,7 @@
 <font color="red">颜色</font>
 <table><tr><td bgcolor=orange> 背景色是 1 orange</td></tr></table>
 <link rel="stylesheet" type="text/css" href="theme.css" />
-
+表情一：:+1:,表情二：:o:
 
 #### it seems markdown只支持部分html原生的属性设置写法，但不支持css以及style的部分写法；
 <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1533056743408&di=f6e17a49ae079daea6f0e2e4934d6026&imgtype=0&src=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201509%2F14%2F20150914211622_EeJHY.jpeg" width="30px" height="30px"/>
