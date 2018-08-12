@@ -1,4 +1,10 @@
 .. _marked: https://github.com/chjj/marked
+The fastest markdown parser in pure Python with renderer features,
+inspired by marked_.
+
+.. image:: https://img.shields.io/badge/donate-lepture-green.svg
+   :target: https://typlog.com/donate?amount=10&reason=lepture%2Fmistune
+   :alt: Donate lepture
 
 ### 万变不离其宗，请站在html的角度看markdown，其实一切很简单
 
